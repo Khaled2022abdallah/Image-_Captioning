@@ -1,7 +1,7 @@
-#Image Captioning:
+# Image Captioning:
 
 Used pipeline to generate text from image
 
-#OCR:
+# OCR:
 
 Utilized OCR pipeline for handwritten text
